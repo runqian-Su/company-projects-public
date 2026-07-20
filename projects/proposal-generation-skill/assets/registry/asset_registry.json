@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "asset_id": "asset.company_profile",
+      "title": "DemoCorp 公司概况",
+      "type": "text_block",
+      "allowed_templates": ["asset_page"],
+      "content": {
+        "headline": "DemoCorp",
+        "body": "DemoCorp 是一家合成示例公司，用于展示方案生成 Skill 如何复用固定事实资产。",
+        "bullets": ["稳定资产引用", "统一表达口径", "可复核内容来源"]
+      }
+    },
+    {
+      "asset_id": "asset.qualification_summary",
+      "title": "DemoCorp 资质概览",
+      "type": "proof_block",
+      "allowed_templates": ["asset_page"],
+      "content": {
+        "headline": "资质与交付能力",
+        "body": "此处为脱敏合成资质摘要，不对应任何真实证照或客户材料。",
+        "bullets": ["合成资质 A", "合成服务能力 B", "合成交付记录 C"]
+      }
+    }
+  ]
+}
+

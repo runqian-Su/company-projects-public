@@ -1,0 +1,7 @@
+entity_name,customer_name,source_doc_no,line_no,ar_amount,posting_date,writeoff_amount,ar_balance,description
+Demo Entity A,Customer Alpha,AR-2026-001,1,1200.00,2026-01-15,0.00,1200.00,合成明细：余额行
+Demo Entity A,Customer Alpha,AR-2026-001,2,300.00,2026-01-16,300.00,0.00,合成明细：同单据已核销行
+Demo Entity A,Customer Beta,AR-2026-002,1,800.00,2026-02-10,200.00,600.00,合成明细：部分核销
+Demo Entity B,Customer Alpha,AR-2026-003,1,500.00,2026-03-05,0.00,500.00,合成明细：另一主体同客户
+Demo Entity B,Customer Gamma,AR-2026-004,1,700.00,2026-03-20,700.00,0.00,合成明细：无余额单据
+

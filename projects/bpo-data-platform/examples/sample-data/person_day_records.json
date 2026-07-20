@@ -1,0 +1,53 @@
+[
+  {
+    "project_id": "demo_retail_ops",
+    "date": "2026-05-01",
+    "employee_id": "EMP-001",
+    "employee_label": "Employee 001",
+    "planned_hours": 8,
+    "actual_hours": 8,
+    "business_count": 42,
+    "quality_note": ""
+  },
+  {
+    "project_id": "demo_retail_ops",
+    "date": "2026-05-01",
+    "employee_id": "EMP-002",
+    "employee_label": "Employee 002",
+    "planned_hours": 8,
+    "actual_hours": 7.5,
+    "business_count": 39,
+    "quality_note": "合成样例：少量工时差异"
+  },
+  {
+    "project_id": "demo_retail_ops",
+    "date": "2026-05-02",
+    "employee_id": "EMP-001",
+    "employee_label": "Employee 001",
+    "planned_hours": 8,
+    "actual_hours": 8,
+    "business_count": 46,
+    "quality_note": ""
+  },
+  {
+    "project_id": "demo_retail_ops",
+    "date": "2026-05-02",
+    "employee_id": "EMP-003",
+    "employee_label": "Employee 003",
+    "planned_hours": 8,
+    "actual_hours": 8,
+    "business_count": 44,
+    "quality_note": ""
+  },
+  {
+    "project_id": "demo_retail_ops",
+    "date": "2026-05-03",
+    "employee_id": "EMP-002",
+    "employee_label": "Employee 002",
+    "planned_hours": 8,
+    "actual_hours": 6,
+    "business_count": 33,
+    "quality_note": "合成样例：待复核"
+  }
+]
+

@@ -1,0 +1,38 @@
+{
+  "name": "Demo Candidate",
+  "basic": {
+    "gender_age": "Synthetic / 35",
+    "location": "Demo City",
+    "phone": "REDACTED",
+    "email": "demo@example.invalid"
+  },
+  "education": [
+    {
+      "period": "2009-2013",
+      "school": "Demo University",
+      "degree": "Bachelor",
+      "major": "Business Administration"
+    }
+  ],
+  "jobs": [
+    {
+      "company": "Demo Group",
+      "period": "2020-2026",
+      "role": "Operations Manager",
+      "facts": [
+        "Managed multi-site operations process standardization.",
+        "Built monthly reporting mechanism for project delivery review."
+      ]
+    },
+    {
+      "company": "Demo Tech",
+      "period": "2016-2020",
+      "role": "Project Lead",
+      "facts": [
+        "Coordinated cross-functional delivery for enterprise service projects."
+      ]
+    }
+  ],
+  "skills": ["operations management", "process standardization", "cross-functional coordination"]
+}
+

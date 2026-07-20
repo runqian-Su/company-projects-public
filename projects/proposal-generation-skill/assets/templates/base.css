@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  background: #f4f6f8;
+  color: #1d2733;
+  font-family: Arial, "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+.deck {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 32px;
+}
+.slide {
+  background: #fff;
+  border: 1px solid #d9e0e7;
+  border-radius: 8px;
+  min-height: 420px;
+  margin: 0 0 24px;
+  padding: 40px;
+  box-sizing: border-box;
+}
+.kicker {
+  color: #48748f;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+h1, h2 {
+  margin: 10px 0 18px;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+}
+.card {
+  border: 1px solid #dce4ea;
+  border-radius: 8px;
+  padding: 18px;
+  background: #f9fbfc;
+}
+li {
+  margin: 8px 0;
+}
+

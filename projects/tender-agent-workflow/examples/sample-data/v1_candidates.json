@@ -1,0 +1,27 @@
+[
+  {
+    "candidate_id": "open-001",
+    "source": "synthetic-open",
+    "title": "Demo Buyer A customer service outsourcing procurement notice",
+    "detail_text": "Project name: Demo Support Service. Budget: 1200000. Service type: customer service outsourcing. Region: Demo City. Deadline: 2026-08-05.",
+    "publish_date": "2026-07-18",
+    "url": "https://example.invalid/tender/open-001"
+  },
+  {
+    "candidate_id": "open-002",
+    "source": "synthetic-open",
+    "title": "Demo Buyer B office furniture procurement notice",
+    "detail_text": "Project name: Demo Office Furniture. Budget: 300000. Service type: furniture. Region: Demo City. Deadline: 2026-08-03.",
+    "publish_date": "2026-07-18",
+    "url": "https://example.invalid/tender/open-002"
+  },
+  {
+    "candidate_id": "web-001",
+    "source": "synthetic-browser",
+    "title": "Demo Buyer C field operation staffing service tender",
+    "detail_text": "Project name: Demo Field Operation Service. Budget: 2400000. Service type: staffing and field operation. Region: Demo Province. Deadline: 2026-08-10.",
+    "publish_date": "2026-07-19",
+    "url": "https://example.invalid/tender/web-001"
+  }
+]
+

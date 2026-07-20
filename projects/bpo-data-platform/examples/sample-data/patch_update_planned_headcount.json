@@ -1,0 +1,12 @@
+{
+  "changes": [
+    {
+      "record_key": {
+        "date": "2026-05-01"
+      },
+      "field": "planned_headcount",
+      "new_value": 5
+    }
+  ]
+}
+

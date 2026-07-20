@@ -1,0 +1,29 @@
+{
+  "templates": [
+    {
+      "template_id": "cover",
+      "required_fields": ["title", "client_name", "subtitle"]
+    },
+    {
+      "template_id": "agenda",
+      "required_fields": ["items"]
+    },
+    {
+      "template_id": "section_cover",
+      "required_fields": ["title", "highlights"]
+    },
+    {
+      "template_id": "asset_page",
+      "required_fields": ["title", "asset_id"]
+    },
+    {
+      "template_id": "industry_cards",
+      "required_fields": ["title", "industry_id", "field"]
+    },
+    {
+      "template_id": "back_cover",
+      "required_fields": ["title"]
+    }
+  ]
+}
+

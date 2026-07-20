@@ -1,0 +1,20 @@
+{
+  "status": "ready",
+  "strengths": [
+    {
+      "title": "流程标准化经验",
+      "evidence": "resume.raw.json jobs[0].facts"
+    },
+    {
+      "title": "跨团队交付协调",
+      "evidence": "resume.raw.json jobs[1].facts"
+    }
+  ],
+  "risks": [
+    {
+      "title": "行业迁移需要面谈确认",
+      "evidence": "synthetic reviewer note"
+    }
+  ]
+}
+

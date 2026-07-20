@@ -1,0 +1,4 @@
+employee_id,name,date,state,reason
+EMP-002,Demo Bob,2026-05-02,leave,synthetic annual leave
+,Carol D,2026-05-01,fieldwork,synthetic field work
+

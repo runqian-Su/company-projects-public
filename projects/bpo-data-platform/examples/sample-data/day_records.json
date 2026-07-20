@@ -1,0 +1,30 @@
+[
+  {
+    "project_id": "demo_retail_ops",
+    "date": "2026-05-01",
+    "planned_headcount": 4,
+    "actual_headcount": 3,
+    "business_count": 128,
+    "quality_flags": [],
+    "note": "合成样例：正常运营日"
+  },
+  {
+    "project_id": "demo_retail_ops",
+    "date": "2026-05-02",
+    "planned_headcount": 4,
+    "actual_headcount": 4,
+    "business_count": 142,
+    "quality_flags": [],
+    "note": "合成样例：满编"
+  },
+  {
+    "project_id": "demo_retail_ops",
+    "date": "2026-05-03",
+    "planned_headcount": 5,
+    "actual_headcount": 4,
+    "business_count": 136,
+    "quality_flags": ["attendance_gap"],
+    "note": "合成样例：存在出勤缺口"
+  }
+]
+

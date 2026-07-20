@@ -1,0 +1,10 @@
+{
+  "industries": [
+    {
+      "industry_id": "demo-retail",
+      "aliases": ["retail", "demo retail", "零售示例"],
+      "file": "assets/industry_narratives/demo-retail.json"
+    }
+  ]
+}
+

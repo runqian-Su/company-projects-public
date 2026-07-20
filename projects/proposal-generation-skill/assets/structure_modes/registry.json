@@ -1,0 +1,24 @@
+{
+  "modes": [
+    {
+      "mode_id": "demo-retail-default",
+      "industry_id": "demo-retail",
+      "title": "Demo Retail 默认方案结构",
+      "sections": [
+        {
+          "title": "公司概况",
+          "page_titles": ["DemoCorp 公司概况", "DemoCorp 资质概览"]
+        },
+        {
+          "title": "业务理解",
+          "page_titles": ["零售行业挑战"]
+        },
+        {
+          "title": "解决方案",
+          "page_titles": ["服务模块与交付路径"]
+        }
+      ]
+    }
+  ]
+}
+

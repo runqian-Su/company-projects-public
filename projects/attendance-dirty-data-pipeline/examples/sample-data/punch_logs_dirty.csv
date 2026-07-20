@@ -1,0 +1,12 @@
+source,employee_id,name,date,punch_time
+device_log,EMP-001, Demo Alice ,2026/05/01,08:31
+device_log,EMP-001,Demo Alice,2026/05/01,18:02
+device_log,,Alice D,2026-05-02,08:45
+device_log,,Alice D,2026-05-02,08:45
+device_log,,Alice D,2026-05-02,18:03
+manual_import,EMP-002,Demo Bob,2026.05.01,09:20
+manual_import,EMP-002,Demo Bob,2026.05.01,17:10
+manual_import,EMP-002,Demo Bob,2026-05-02,not-a-time
+device_log,EMP-003,Demo Carol,2026-05-01,08:25
+device_log,EMP-999,Unknown Person,2026-05-01,08:20
+

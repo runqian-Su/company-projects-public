@@ -1,0 +1,55 @@
+{
+  "worker_a": [
+    {
+      "record_id": "a-001",
+      "title": "Demo Buyer A customer service outsourcing procurement notice",
+      "buyer": "Demo Buyer A",
+      "project_name": "Demo Support Service",
+      "service_type": "customer service outsourcing",
+      "budget": 1200000,
+      "deadline": "2026-08-05",
+      "source_url": "https://example.invalid/tender/open-001",
+      "quality_flags": []
+    }
+  ],
+  "worker_b": [
+    {
+      "record_id": "b-001",
+      "title": "Demo Buyer C field operation staffing service tender",
+      "buyer": "Demo Buyer C",
+      "project_name": "Demo Field Operation Service",
+      "service_type": "staffing and field operation",
+      "budget": 2400000,
+      "deadline": "2026-08-10",
+      "source_url": "https://example.invalid/tender/web-001",
+      "quality_flags": []
+    }
+  ],
+  "worker_c": [
+    {
+      "record_id": "c-001",
+      "title": "Demo Buyer A customer service outsourcing procurement notice",
+      "buyer": "Demo Buyer A",
+      "project_name": "Demo Support Service",
+      "service_type": "customer service outsourcing",
+      "budget": 1200000,
+      "deadline": "2026-08-05",
+      "source_url": "https://example.invalid/tender/open-001",
+      "quality_flags": ["duplicate_source_seen"]
+    }
+  ],
+  "worker_a1": [
+    {
+      "record_id": "a1-001",
+      "title": "Demo Buyer D payroll BPO service browser candidate",
+      "buyer": "Demo Buyer D",
+      "project_name": "Demo Payroll BPO Service",
+      "service_type": "payroll bpo",
+      "budget": 1800000,
+      "deadline": "2026-08-12",
+      "source_url": "https://example.invalid/tender/browser-001",
+      "quality_flags": ["browser_line"]
+    }
+  ]
+}
+

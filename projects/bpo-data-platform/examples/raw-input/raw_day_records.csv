@@ -1,0 +1,5 @@
+project_id,date,planned_headcount,actual_headcount,business_count,quality_flags,note
+demo_retail_ops,2026-05-01,4,3,128,,合成原始输入：正常运营日
+demo_retail_ops,2026-05-02,4,4,142,,合成原始输入：满编
+demo_retail_ops,2026-05-03,5,4,136,attendance_gap,合成原始输入：存在出勤缺口
+

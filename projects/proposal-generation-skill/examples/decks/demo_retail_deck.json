@@ -1,0 +1,106 @@
+{
+  "deck_id": "demo-retail-proposal",
+  "title": "Demo Retail Service Proposal",
+  "client_name": "Demo Retail Client",
+  "structure": {
+    "mode": "demo-retail-default",
+    "sections": [
+      {
+        "title": "公司概况",
+        "page_titles": ["DemoCorp 公司概况", "DemoCorp 资质概览"]
+      },
+      {
+        "title": "业务理解",
+        "page_titles": ["零售行业挑战"]
+      },
+      {
+        "title": "解决方案",
+        "page_titles": ["服务模块与交付路径"]
+      }
+    ]
+  },
+  "pages": [
+    {
+      "template": "cover",
+      "source_type": "manual_input",
+      "data": {
+        "title": "Demo Retail Service Proposal",
+        "client_name": "Demo Retail Client",
+        "subtitle": "受约束方案生成示例"
+      }
+    },
+    {
+      "template": "agenda",
+      "source_type": "structure",
+      "data": {
+        "items": ["公司概况", "业务理解", "解决方案"]
+      }
+    },
+    {
+      "template": "section_cover",
+      "source_type": "structure",
+      "data": {
+        "title": "公司概况",
+        "highlights": ["DemoCorp 公司概况", "DemoCorp 资质概览"]
+      }
+    },
+    {
+      "template": "asset_page",
+      "source_type": "asset",
+      "data": {
+        "title": "DemoCorp 公司概况",
+        "asset_id": "asset.company_profile"
+      }
+    },
+    {
+      "template": "asset_page",
+      "source_type": "asset",
+      "data": {
+        "title": "DemoCorp 资质概览",
+        "asset_id": "asset.qualification_summary"
+      }
+    },
+    {
+      "template": "section_cover",
+      "source_type": "structure",
+      "data": {
+        "title": "业务理解",
+        "highlights": ["零售行业挑战"]
+      }
+    },
+    {
+      "template": "industry_cards",
+      "source_type": "industry_narrative",
+      "data": {
+        "title": "零售行业挑战",
+        "industry_id": "demo-retail",
+        "field": "pain_points"
+      }
+    },
+    {
+      "template": "section_cover",
+      "source_type": "structure",
+      "data": {
+        "title": "解决方案",
+        "highlights": ["服务模块与交付路径"]
+      }
+    },
+    {
+      "template": "industry_cards",
+      "source_type": "industry_narrative",
+      "data": {
+        "title": "服务模块与交付路径",
+        "industry_id": "demo-retail",
+        "field": "solution_modules"
+      }
+    },
+    {
+      "template": "back_cover",
+      "source_type": "manual_input",
+      "data": {
+        "title": "Thank You"
+      }
+    }
+  ]
+}
+

@@ -1,0 +1,36 @@
+# OS/editor noise
+.DS_Store
+.idea/
+.vscode/
+
+# Python runtime/cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Node/runtime caches
+node_modules/
+npm-cache/
+
+# Demo runtime outputs
+projects/*/examples/runtime/*
+!projects/*/examples/runtime/.gitkeep
+
+# Local/generated artifacts that should not be committed
+*.sqlite
+*.db
+*.xlsx
+*.xls
+*.docx
+*.pdf
+*.pptx
+*.zip
+*.png
+*.jpg
+*.jpeg
+*.m4a
+*.mp3
+*.wav
+

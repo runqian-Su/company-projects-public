@@ -1,0 +1,26 @@
+{
+  "employees": [
+    {
+      "employee_id": "EMP-001",
+      "canonical_name": "Demo Alice",
+      "department": "Demo Ops",
+      "aliases": ["Alice D", "Demo Alice"]
+    },
+    {
+      "employee_id": "EMP-002",
+      "canonical_name": "Demo Bob",
+      "department": "Demo Ops",
+      "aliases": ["Demo Bob"]
+    },
+    {
+      "employee_id": "EMP-003",
+      "canonical_name": "Demo Carol",
+      "department": "Demo Support",
+      "aliases": ["Carol D", "Demo Carol"]
+    }
+  ],
+  "whitelist_employee_ids": ["EMP-001", "EMP-002", "EMP-003"],
+  "work_start": "09:00",
+  "work_end": "18:00"
+}
+

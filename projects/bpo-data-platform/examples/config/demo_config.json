@@ -1,0 +1,12 @@
+{
+  "project_id": "demo_retail_ops",
+  "project_name": "DemoCorp 零售运营样例项目",
+  "runtime_dir": "examples/runtime",
+  "allowed_datasets": ["day", "person"],
+  "governance": {
+    "b_layer_write_source": "A 层事实处理",
+    "ba_write_back_to_b": false,
+    "agent_default_permission": "readonly"
+  }
+}
+
